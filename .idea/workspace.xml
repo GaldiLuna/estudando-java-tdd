@@ -6,24 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="813b0612-9923-4609-a25e-906a7ee70ba5" name="Changes" comment="Criação do repositório e envio do projeto de estudo de TDD com o livro Agile Java">
       <changelist_data name="GaldiLuna" email="" automatic="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Agile - Project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AulasJava/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AulasJava/Cachorro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AulasJava/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AulasJava/Programa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tests/AllTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tests/BoardTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tests/ChessBoard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tests/Pawn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tests/PawnTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,9 +28,21 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "GaldiLuna"
+  }
+}]]></component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="c084f501-eaf8-4fab-8ea4-4c9a8594b9d3" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/GaldiLuna/estudando-java-tdd.git",
+    "accountId": "c084f501-eaf8-4fab-8ea4-4c9a8594b9d3"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
