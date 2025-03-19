@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="813b0612-9923-4609-a25e-906a7ee70ba5" name="Changes" comment="Criação do repositório e envio do projeto de estudo de TDD com o livro Agile Java">
-      <changelist_data name="GaldiLuna" email="" automatic="false" />
-    </list>
+    <list default="true" id="813b0612-9923-4609-a25e-906a7ee70ba5" name="Changes" comment="Criação do repositório e envio do projeto de estudo de TDD com o livro Agile Java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -186,6 +184,15 @@
       <option name="presentableId" value="Default" />
       <updated>1741262294262</updated>
     </task>
+    <task id="LOCAL-00001" summary="Criação do repositório e envio do projeto de estudo de TDD com o livro Agile Java">
+      <option name="closed" value="true" />
+      <created>1742406135186</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742406135186</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
