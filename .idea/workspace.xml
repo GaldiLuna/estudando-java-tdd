@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="813b0612-9923-4609-a25e-906a7ee70ba5" name="Changes" comment="Criação do repositório e envio do projeto de estudo de TDD com o livro Agile Java">
+      <changelist_data name="GaldiLuna" email="" automatic="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Agile - Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AulasJava/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AulasJava/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AulasJava/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AulasJava/Programa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tests/AllTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tests/BoardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tests/ChessBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tests/Pawn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tests/PawnTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="GaldiLuna" />
+        <option value="galdiluna" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="c084f501-eaf8-4fab-8ea4-4c9a8594b9d3" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2twTm0k8Fjfr4HIoQH9JjHT36jj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Hello.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.AllTests (1).executor": "Run",
+    "JUnit.AllTests.executor": "Run",
+    "JUnit.CourseSessionTest (1).executor": "Run",
+    "JUnit.CourseSessionTest.executor": "Run",
+    "JUnit.CourseSessionTest.testCourseDates.executor": "Run",
+    "JUnit.CourseSessionTest.testEnrollStudents.executor": "Run",
+    "JUnit.PawnTest (1).executor": "Run",
+    "JUnit.PawnTest.executor": "Run",
+    "JUnit.StudentTest (1).executor": "Run",
+    "JUnit.StudentTest.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/flluna/Documentos/Agile - Project",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AllTests">
+    <configuration name="AllTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Agile - Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.AllTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CourseSessionTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Agile - Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.studentinfo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests.studentinfo" />
+      <option name="MAIN_CLASS_NAME" value="Tests.studentinfo.CourseSessionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CourseSessionTest.testCourseDates" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Agile - Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.studentinfo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests.studentinfo" />
+      <option name="MAIN_CLASS_NAME" value="Tests.studentinfo.CourseSessionTest" />
+      <option name="METHOD_NAME" value="testCourseDates" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CourseSessionTest.testEnrollStudents" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Agile - Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.studentinfo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests.studentinfo" />
+      <option name="MAIN_CLASS_NAME" value="Tests.studentinfo.CourseSessionTest" />
+      <option name="METHOD_NAME" value="testEnrollStudents" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PawnTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Agile - Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.PawnTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AllTests" />
+        <item itemvalue="JUnit.PawnTest" />
+        <item itemvalue="JUnit.CourseSessionTest (1)" />
+        <item itemvalue="JUnit.CourseSessionTest.testCourseDates" />
+        <item itemvalue="JUnit.CourseSessionTest.testEnrollStudents" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="813b0612-9923-4609-a25e-906a7ee70ba5" name="Changes" comment="" />
+      <created>1741262294262</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741262294262</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Criação do repositório e envio do projeto de estudo de TDD com o livro Agile Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criação do repositório e envio do projeto de estudo de TDD com o livro Agile Java" />
+  </component>
+</project>
