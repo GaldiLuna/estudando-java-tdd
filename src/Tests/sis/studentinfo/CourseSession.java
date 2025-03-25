@@ -79,11 +79,10 @@ public class CourseSession {
         return calendar.getTime();
     }
 
-    //int getTestEnrollStudents() {
-    //    return 2;
-    //}
+    ArrayList<Student> getAllStudents() {
+        return students;
+    }
 
-    //ArrayList<Student> getAllStudents() {
-    //    return students;
-    //}
 }
+
+
